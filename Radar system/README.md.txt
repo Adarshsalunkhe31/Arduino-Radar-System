@@ -39,9 +39,15 @@ This project demonstrates the working principle of real radar systems using affo
 -Software Used:
 	Arduino IDE.
 
+-Project Demo:
+	![Radar Screenshot 1](Screenshot 2026-02-19 130000.png)
+	![Radar Screenshot 2](Screenshot 2026-02-19 130046.png)
+
+
 -Applications
 
 	Object detection systems.
 	Robotics projects.
 	Distance measurement systems.
+
 	Educational demonstrations.
