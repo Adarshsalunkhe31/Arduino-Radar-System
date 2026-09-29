@@ -22,16 +22,16 @@ This project demonstrates the working principle of real radar systems using affo
 -Circuit Connections:
 .Ultrasonic sensor
 
-VCC	           5V
-	GND	       GND
-	Trig	Digital Pin 
-	Echo	Digital Pin 
+VCC	    =       5V
+	GND	 =      GND
+	Trig =	Digital Pin 
+	Echo =	Digital Pin 
 
 .Servo Motor
 
-VCC     	5V
-GND	        GND
-Signal	Digital Pin (PWM PIN)
+VCC   =  	5V
+GND	   =     GND
+Signal=	Digital Pin (PWM PIN)
 
 -Software Used:
 	Arduino IDE.
